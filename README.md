@@ -3,7 +3,7 @@
 ### Содержание  
 
 1. Практические задания (пет-проекты)  
-    - [Экзамен по матиматике (EDA)](https://github.com/IvanRumyantsev/skillfactory_rds "Ссылка в разработке")
+    - [Экзамен по матиматике (EDA)](https://github.com/IvanRumyantsev/skillfactory_rds/tree/master/Project2.EDA)
     - [О вкусной и здоровой пище](https://github.com/IvanRumyantsev/skillfactory_rds "Ссылка в разработке")  
 2. Другие материалы и задачи из курса
 
@@ -12,6 +12,9 @@
 - Kaggle
 - GitHub 
 
-:arrow_up:[Вернуться вверх](https://github.com/IvanRumyantsev/skillfactory_rds/blob/master/README.md)
+### [Резюме](https://github.com/IvanRumyantsev/skillfactory_rds "Резюме в разработке")
 
-### [Резюме](https://github.com/IvanRumyantsev/skillfactory_rds "Ссылка в разработке")
+### Полезные ссылки  
+- [Изучаем GitHub](https://git-scm.com/book/ru/v2)
+- [Оформляем Readme.md](https://gist.github.com/Jekins/2bf2d0638163f1294637 "Markdown")
+- [Текствовые вставки](https://shields.io/)
