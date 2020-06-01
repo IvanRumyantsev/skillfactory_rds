@@ -12,8 +12,6 @@
 - Kaggle
 - GitHub 
 
-### [Резюме](https://github.com/IvanRumyantsev/skillfactory_rds "Резюме в разработке")
-
 ### Полезные ссылки  
 - [Изучаем GitHub](https://git-scm.com/book/ru/v2)
 - [Оформляем Readme.md](https://gist.github.com/Jekins/2bf2d0638163f1294637 "Markdown")
