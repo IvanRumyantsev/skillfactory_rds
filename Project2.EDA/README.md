@@ -50,5 +50,6 @@
 
 ### Файлы проекта
 - stud_math.csv - исходный датасет
+- stud_math_after_EDA.csv - датасет после EDA
 - DST-10_Project2_Arcis_EDA.ipynb - ноутбук с проектом (EDA)
 - my_lib_rds2.py - модуль с функциями к данному проекту
