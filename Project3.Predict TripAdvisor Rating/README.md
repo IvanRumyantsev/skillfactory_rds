@@ -1,1 +1,1 @@
-# Jgbcfybt ghjtrnf
+# Учебный проект Predict TripAdvisor Rating
