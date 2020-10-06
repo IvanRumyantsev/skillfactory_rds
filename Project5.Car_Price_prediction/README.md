@@ -28,6 +28,11 @@
 
 Наш результат:   11.62554 (MAPE)
 
+ФАЙЛЫ:
+
+- [Парсинг обучающего датасета](https://github.com/IvanRumyantsev/skillfactory_rds/blob/master/Project5.Car_Price_prediction/Auto_ru_parsing_10092020.ipynb)
+- [EDA-FE-PREDICT](https://github.com/IvanRumyantsev/skillfactory_rds/blob/master/Project5.Car_Price_prediction/u6_car_price_fin2.ipynb)
+
 Считаю главным результатом выполненой работы отработку следубщих навыков:
 - работа в команде
 - знакомство с новой IDE: VSCode
